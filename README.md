@@ -1,7 +1,7 @@
 Hangman, in Python
 =============================
 
-**[Click here to play a demo!](http://repl.it/LhR/5)**
+**[Click here to play a demo!](http://repl.it/LhR/6)**
 
 My version of the classic word guessing game, Hangman. I'm sure there are much
 better/easier ways of making this game, and it's probably more elaborate than 
@@ -19,14 +19,16 @@ You can make your own txt file of words by following these two easy steps:
 
 ####Features
 
+- 3 difficulty levels, determining the players starting men (lives).
+- Words separated into 3 levels, depending on word length.
+- Keeps score.
 - Easy to edit word list built into source, or you can load words from a 
 txt file of words.
 - Displays the secret word, with any rightly guessed letters revealed.
 - Displays all of the letters player has guessed, in alphabetical order.
-- No duplicate words. Once a word is solved, it's removed from the list.
-    - When all of the words have been solved, the game ends.
-- Awesome ASCII art hangman. Okay, so it's not that awesome.
-- Keeps score (10 points per solved word).
+- No duplicate words. Once a word is solved (or not), it's removed from the list.
+    - When all of the words have been solved (or not), the game ends.
+- Awesome ASCII art hangman! Okay, so it's not that awesome.
 
 ####Relevant links
 
