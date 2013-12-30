@@ -1,7 +1,7 @@
 Hangman, in Python
 =============================
 
-**[Click here to play a demo!](http://repl.it/LhR/6)**
+**[Click here to play a demo!](http://repl.it/LhR/7)**
 
 My version of the classic word guessing game, Hangman. I'm sure there are much
 better/easier ways of making this game, and it's probably more elaborate than 
