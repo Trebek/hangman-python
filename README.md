@@ -12,22 +12,21 @@ game.
 
 You can make your own txt file of words by following these three easy steps:
     
-1. Create a new txt file, called "words.txt" in the same folder as this 
+1. Create a new txt file, called "words.txt" in the same folder as the 
    game.
 2. Open the txt file and enter each word on it's own line. 
 3. Save the txt.
 
 #### Features
 
+- Game keeps score.
 - 3 main difficulty levels, determining the players starting men (lives).
 - Words separated into 3 "word levels", depending on word length. When a player 
 solves (or doesn't solve) all of the words in a level, the player is moved to 
 the next level.
-- Game keeps score.
-- Easy to edit word list built into source, or you can load words from an easy 
-to edit txt file of words.
-- Displays the secret word, with any rightly guessed letters revealed.
-- Displays all of the letters player has guessed, in alphabetical order.
+- Words stored in an easy to edit text file.
+- Displays the "hidden" word, with any rightly guessed letters revealed.
+- Displays all of the letters player has guessed for a word, in alphabetical order.
 - No duplicate words. Once a word is solved (or not), it's removed from the list.
     - When all of the words from every list have been solved (or not), the game 
     ends.
@@ -35,4 +34,4 @@ to edit txt file of words.
 
 #### Relevant links
 
-[Hangman Wikipedia Article](http://en.wikipedia.org/wiki/Hangman_(game))  
+[Hangman Wikipedia Article](http://en.wikipedia.org/wiki/Hangman_(game\))
